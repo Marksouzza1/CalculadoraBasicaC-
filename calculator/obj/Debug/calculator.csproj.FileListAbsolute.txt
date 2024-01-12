@@ -1,0 +1,7 @@
+C:\Users\Lyncas\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Lyncas\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Lyncas\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Lyncas\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Lyncas\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lyncas\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Lyncas\source\repos\calculator\calculator\obj\Debug\calculator.pdb
